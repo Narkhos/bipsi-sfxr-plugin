@@ -1,6 +1,6 @@
 # bipsi-sfxr-plugin
 
-Sfx generator for bipsi.
+Sfx generator for bipsi https://github.com/Ragzouken/bipsi or its derivatives like binksi https://github.com/smwhr/binksi.
 
 The sourcecode comes from Puzzlescript sfx generator : https://github.com/increpare/PuzzleScript
 
