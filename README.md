@@ -1,8 +1,8 @@
 # bipsi-sfxr-plugin
 
-Sfx generator for bipsi https://github.com/Ragzouken/bipsi or its derivatives like binksi https://github.com/smwhr/binksi.
+Sfx generator for [bipsi](https://github.com/Ragzouken/bipsi) or its derivatives like [binksi](https://github.com/smwhr/binksi).
 
-The sourcecode comes from Puzzlescript sfx generator : https://github.com/increpare/PuzzleScript
+The sourcecode comes from [Puzzlescript](https://github.com/increpare/PuzzleScript) sfx generator
 
 ## Usage
 
@@ -14,4 +14,4 @@ window.playSound(76565909);
 
 ## Creating sound seeds
 
-For the moment, the best way to generate sound seeds is to use puzzlescript editor : https://www.puzzlescript.net/editor.html
+For the moment, the best way to generate sound seeds is to use [puzzlescript editor](https://www.puzzlescript.net/editor.html)
